@@ -1,0 +1,8 @@
+---
+example:
+  fieldone: 1.3.3.7
+  weather: sunny
+  list:
+  - test
+  - test
+  test: test

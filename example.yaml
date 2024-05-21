@@ -1,0 +1,11 @@
+---
+example:
+  fieldone: test
+  sometest:
+    - one
+    - two
+  weather: sunny
+  list:
+  - test
+  - test
+  test: test
